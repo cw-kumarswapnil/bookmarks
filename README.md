@@ -48,6 +48,8 @@
 ## Search Engine Optimization
 * [How Links in Headers, Footers, Content, and Navigation Can Impact SEO](https://moz.com/blog/links-headers-footers-navigation-impact-seo)
 * [How Many Links Is Too Many?](https://moz.com/blog/how-many-links-is-too-many)
+* [The Ultimate Guide for an SEO-Friendly URL Structure](https://www.searchenginejournal.com/technical-seo/url-structure/)
+* [An SEO Guide to URL Parameter Handling](https://www.searchenginejournal.com/technical-seo/url-parameter-handling/)
 * [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
 * [Schema Markup Best Practices – Json-LD Vs Microdata](https://www.envigo.co.in/blog/seo/schema-markup-best-practices-json-ld-vs-microdata)
 * [Create good titles and snippets in search results](https://developers.google.com/search/docs/advanced/appearance/good-titles-snippets?visit_id=637488152232303549-4048699790&rd=1#page-titles)
