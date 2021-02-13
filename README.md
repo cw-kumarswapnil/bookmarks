@@ -18,8 +18,13 @@
 ## ElasticSearch
 * 
 
-## React
+## Frontend
+* [What are Micro Frontends?](https://micro-frontends.org/)
+* [Service Worker Registration](https://developers.google.com/web/fundamentals/primers/service-workers/registration)
+* [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
+* [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
 * [Render null](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
+* [What is the difference between properties and attributes in HTML?](https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html)
 
 ## AMP Pages
 * [Preload your PWA from your AMP pages](https://amp.dev/documentation/guides-and-tutorials/integrate/amp-to-pwa/?format=websites)
