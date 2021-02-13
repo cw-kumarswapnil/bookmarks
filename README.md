@@ -15,6 +15,11 @@
 * [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
 * [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
 
+## ReactJS
+* [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+* [Building Great User Experiences with Concurrent Mode and Suspense](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
+* [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+* [Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
 
 ## ElasticSearch
 * 
