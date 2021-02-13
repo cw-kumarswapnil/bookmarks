@@ -25,9 +25,14 @@
 * [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 * [19 Takeaways From React Conf 2019](https://dev.to/amorriscode/19-takeaways-from-react-conf-2019-2m36)
 * [What are the downsides of preact?](https://github.com/preactjs/preact/issues/2199)
+* [React render() is being called before componentDidMount()](https://stackoverflow.com/questions/45337165/react-render-is-being-called-before-componentdidmount)
 
 ## ElasticSearch
-* 
+* [Writing analyzers](https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/writing-analyzers.html)
+* [Snowball token filter](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-snowball-tokenfilter.html)
+* [Snowball stemmer default stop_words list](https://github.com/apache/lucene-solr/blob/master/lucene/analysis/common/src/resources/org/apache/lucene/analysis/snowball/english_stop.txt)
+* [ Boosting Query Clauses](https://www.elastic.co/guide/en/elasticsearch/guide/current/_boosting_query_clauses.html)
+* [Relevance Is Broken!](https://www.elastic.co/guide/en/elasticsearch/guide/current/relevance-is-broken.html)
 
 ## Databases
 * [UPDATE SET column with different values per row](https://stackoverflow.com/questions/58014002/update-set-column-with-different-values-per-row/58014470#58014470)
@@ -52,6 +57,7 @@
 
 
 ## Infra
+* [Using Consul for Service Discovery with ASP.NET Core](https://cecilphillip.com/using-consul-for-service-discovery-with-asp-net-core/)
 * [Why do people use Consul or other Service Discovery tool along with Kubernetes that already has this functionality built-it?](https://www.quora.com/Why-do-people-use-Consul-or-other-Service-Discovery-tool-along-with-Kubernetes-that-already-has-this-functionality-built-it?ch=10&share=f722e6d5&srid=Z6qx)
 * [RabbitMQ / AMQP: single queue, multiple consumers for same message?](https://stackoverflow.com/questions/10620976/rabbitmq-amqp-single-queue-multiple-consumers-for-same-message)
 
