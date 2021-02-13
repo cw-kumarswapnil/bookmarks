@@ -18,11 +18,21 @@
 ## ElasticSearch
 * 
 
+## Web Performance
+* [High Performance Browser Networking](https://hpbn.co/)
+* [TCP Download Breakpoints](https://community.akamai.com/customers/s/article/TCP-Download-Breakpoints?language=en_US)
+* [Time to Interactive (TTI)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md)
+* [TLS has exactly one performance problem: it is not used widely enough.](https://istlsfastyet.com/)
+* [Enable TLS False Start](https://hpbn.co/transport-layer-security-tls/#enable-tls-false-start)
+* [Initcwnd settings of major CDN providers](https://www.cdnplanet.com/blog/initcwnd-settings-major-cdn-providers/)
+* [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data)
+* [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
+* [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
+
+
 ## Frontend
 * [What are Micro Frontends?](https://micro-frontends.org/)
 * [Service Worker Registration](https://developers.google.com/web/fundamentals/primers/service-workers/registration)
-* [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
-* [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
 * [Render null](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
 * [What is the difference between properties and attributes in HTML?](https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html)
 
