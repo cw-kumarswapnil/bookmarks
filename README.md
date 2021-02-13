@@ -23,6 +23,7 @@
 * [TCP Download Breakpoints](https://community.akamai.com/customers/s/article/TCP-Download-Breakpoints?language=en_US)
 * [Time to Interactive (TTI)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md)
 * [TLS has exactly one performance problem: it is not used widely enough.](https://istlsfastyet.com/)
+* [First Interactive and Consistently Interactive](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#heading=h.k1h25blerz3i)
 * [Enable TLS False Start](https://hpbn.co/transport-layer-security-tls/#enable-tls-false-start)
 * [Initcwnd settings of major CDN providers](https://www.cdnplanet.com/blog/initcwnd-settings-major-cdn-providers/)
 * [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data)
@@ -35,8 +36,10 @@
 * [Service Worker Registration](https://developers.google.com/web/fundamentals/primers/service-workers/registration)
 * [Render null](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
 * [What is the difference between properties and attributes in HTML?](https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html)
+* [Why is preconnect resource hint not working?](https://stackoverflow.com/questions/55520102/why-is-preconnect-resource-hint-not-working)
 
 ## AMP Pages
+* [How to make AMP even faster](https://blog.amp.dev/2018/10/08/how-to-make-amp-even-faster/)
 * [Preload your PWA from your AMP pages](https://amp.dev/documentation/guides-and-tutorials/integrate/amp-to-pwa/?format=websites)
 * [Variables supported in amp-analytics](https://github.com/ampproject/amphtml/blob/master/extensions/amp-analytics/analytics-vars.md)
 * [AMP- Tracking Scrolling](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/configure-analytics/use_cases/?format=websites#tracking-scrolling)
@@ -47,4 +50,4 @@
 * [How AMP pages are cached](https://amp.dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/how_amp_pages_are_cached/)
 * [AMP Cache URL Format and Request Handling](https://amp.dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/amp-cache-urls/?format=websites)
 * [Signed HTTP Exchanges](https://wicg.github.io/webpackage/draft-yasskin-http-origin-signed-responses.html)
-
+* [Twitter ramps up AMP](https://searchengineland.com/twitter-ramps-amp-278300)
