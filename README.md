@@ -50,11 +50,12 @@
 * [How Many Links Is Too Many?](https://moz.com/blog/how-many-links-is-too-many)
 * [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
 * [Schema Markup Best Practices – Json-LD Vs Microdata](https://www.envigo.co.in/blog/seo/schema-markup-best-practices-json-ld-vs-microdata)
+* [Create good titles and snippets in search results](https://developers.google.com/search/docs/advanced/appearance/good-titles-snippets?visit_id=637488152232303549-4048699790&rd=1#page-titles)
 * [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 * [Fix lazy-loaded content](https://developers.google.com/search/docs/guides/lazy-loading#test)
 
 
-## The async/await saga and the advanced fundamentals
+## Backend
 * [What is in a DLL and how does it work?](https://stackoverflow.com/questions/3628798/what-is-in-a-dll-and-how-does-it-work)
 * [Does async await increases Context switching](https://stackoverflow.com/questions/39795286/does-async-await-increases-context-switching)
 * [Parallel.ForEach vs Task.Run and Task.WhenAll](https://stackoverflow.com/questions/19102966/parallel-foreach-vs-task-run-and-task-whenall)
@@ -62,6 +63,7 @@
 * [Simple description of worker and I/O threads in .NET](https://stackoverflow.com/questions/2099947/simple-description-of-worker-and-i-o-threads-in-net)
 * [The managed thread pool](https://docs.microsoft.com/en-us/dotnet/standard/threading/the-managed-thread-pool)
 * [What is w3wp.exe? Learn the Basics About IIS Worker Processes](https://stackify.com/w3wp-exe-iis-worker-process/)
+* [Multiple Views and DisplayMode Providers in ASP.NET MVC 4](https://www.red-gate.com/simple-talk/dotnet/asp-net/multiple-views-and-displaymode-providers-in-asp-net-mvc-4/)
 
 
 ## Infra
