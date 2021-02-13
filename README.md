@@ -31,6 +31,7 @@
 * [Writing analyzers](https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/writing-analyzers.html)
 * [Snowball token filter](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-snowball-tokenfilter.html)
 * [Snowball stemmer default stop_words list](https://github.com/apache/lucene-solr/blob/master/lucene/analysis/common/src/resources/org/apache/lucene/analysis/snowball/english_stop.txt)
+* [Multi-fields with multiple analyzers](https://www.elastic.co/guide/en/elasticsearch/reference/current/multi-fields.html#_multi_fields_with_multiple_analyzers)
 * [ Boosting Query Clauses](https://www.elastic.co/guide/en/elasticsearch/guide/current/_boosting_query_clauses.html)
 * [Relevance Is Broken!](https://www.elastic.co/guide/en/elasticsearch/guide/current/relevance-is-broken.html)
 
@@ -39,6 +40,10 @@
 * [Using EXPLAIN to Write Better MySQL Queries](https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
 * [Maybe Normalizing Isn't Normal](https://blog.codinghorror.com/maybe-normalizing-isnt-normal/)
 * [Database War Stories #3: Flickr](http://radar.oreilly.com/2006/04/database-war-stories-3-flickr.html)
+
+## How things work?
+* [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+* [Memcached - UserInternals](https://github.com/memcached/memcached/wiki/UserInternals)
 
 ## Search Engine Optimization
 * [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
