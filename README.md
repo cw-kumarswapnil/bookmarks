@@ -1,4 +1,4 @@
-# bookmarks
+# :bookmark: Bookmarks
 
 ## Databases
 * [UPDATE SET column with different values per row](https://stackoverflow.com/questions/58014002/update-set-column-with-different-values-per-row/58014470#58014470)
