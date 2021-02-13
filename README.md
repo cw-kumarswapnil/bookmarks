@@ -27,6 +27,8 @@
 
 ## Search Engine Optimization
 * [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
+* [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
+* [Fix lazy-loaded content](https://developers.google.com/search/docs/guides/lazy-loading#test)
 
 
 ## The async/await saga and the advanced fundamentals
@@ -38,6 +40,10 @@
 * [The managed thread pool](https://docs.microsoft.com/en-us/dotnet/standard/threading/the-managed-thread-pool)
 * [What is w3wp.exe? Learn the Basics About IIS Worker Processes](https://stackify.com/w3wp-exe-iis-worker-process/)
 
+
+## Infra
+* [Why do people use Consul or other Service Discovery tool along with Kubernetes that already has this functionality built-it?](https://www.quora.com/Why-do-people-use-Consul-or-other-Service-Discovery-tool-along-with-Kubernetes-that-already-has-this-functionality-built-it?ch=10&share=f722e6d5&srid=Z6qx)
+* [RabbitMQ / AMQP: single queue, multiple consumers for same message?](https://stackoverflow.com/questions/10620976/rabbitmq-amqp-single-queue-multiple-consumers-for-same-message)
 
 ## Frontend
 * [What are Micro Frontends?](https://micro-frontends.org/)
