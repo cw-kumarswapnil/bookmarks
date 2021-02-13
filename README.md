@@ -3,11 +3,20 @@
 ## Databases
 * [UPDATE SET column with different values per row](https://stackoverflow.com/questions/58014002/update-set-column-with-different-values-per-row/58014470#58014470)
 * [Using EXPLAIN to Write Better MySQL Queries](https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
+* [Maybe Normalizing Isn't Normal](https://blog.codinghorror.com/maybe-normalizing-isnt-normal/)
+* [Database War Stories #3: Flickr](http://radar.oreilly.com/2006/04/database-war-stories-3-flickr.html)
 
-## The async/await saga and .NET internals
+## The async/await saga and the advanced fundamentals
+* [What is in a DLL and how does it work?](https://stackoverflow.com/questions/3628798/what-is-in-a-dll-and-how-does-it-work)
 * [Does async await increases Context switching](https://stackoverflow.com/questions/39795286/does-async-await-increases-context-switching)
+* [Parallel.ForEach vs Task.Run and Task.WhenAll](https://stackoverflow.com/questions/19102966/parallel-foreach-vs-task-run-and-task-whenall)
+* [Data Parallelism (Task Parallel Library)](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/data-parallelism-task-parallel-library)
 * [Simple description of worker and I/O threads in .NET](https://stackoverflow.com/questions/2099947/simple-description-of-worker-and-i-o-threads-in-net)
+* [The managed thread pool](https://docs.microsoft.com/en-us/dotnet/standard/threading/the-managed-thread-pool)
 * [What is w3wp.exe? Learn the Basics About IIS Worker Processes](https://stackify.com/w3wp-exe-iis-worker-process/)
+
+## ElasticSearch
+* 
 
 ## React
 * [Render null](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
