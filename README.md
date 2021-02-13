@@ -3,6 +3,7 @@
 
 ## Web Performance
 * [High Performance Browser Networking](https://hpbn.co/)
+* [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
 * [Optimize JavaScript Execution](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
 * [TCP Download Breakpoints](https://community.akamai.com/customers/s/article/TCP-Download-Breakpoints?language=en_US)
 * [Time to Interactive (TTI)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md)
@@ -12,8 +13,7 @@
 * [Enable TLS False Start](https://hpbn.co/transport-layer-security-tls/#enable-tls-false-start)
 * [Initcwnd settings of major CDN providers](https://www.cdnplanet.com/blog/initcwnd-settings-major-cdn-providers/)
 * [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data)
-* [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
-* [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
+* [Serve modern code to modern browsers for faster page loads](https://web.dev/serve-modern-code-to-modern-browsers/)
 
 ## ReactJS
 * [Selective hydration and perceived performance](https://www.youtube.com/watch?v=UxoX2faIgDQ&t=3535s)
@@ -24,6 +24,7 @@
 * [Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
 * [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 * [19 Takeaways From React Conf 2019](https://dev.to/amorriscode/19-takeaways-from-react-conf-2019-2m36)
+* [What are the downsides of preact?](https://github.com/preactjs/preact/issues/2199)
 
 ## ElasticSearch
 * 
@@ -55,6 +56,7 @@
 * [RabbitMQ / AMQP: single queue, multiple consumers for same message?](https://stackoverflow.com/questions/10620976/rabbitmq-amqp-single-queue-multiple-consumers-for-same-message)
 
 ## Frontend
+* [How webpack decides what to bundle](https://blog.jakoblind.no/how-webpack-decides-what-to-bundle/)
 * [What are Micro Frontends?](https://micro-frontends.org/)
 * [Service Worker Registration](https://developers.google.com/web/fundamentals/primers/service-workers/registration)
 * [Render null](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
