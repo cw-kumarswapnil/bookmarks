@@ -53,6 +53,7 @@
 * [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
 * [Schema Markup Best Practices – Json-LD Vs Microdata](https://www.envigo.co.in/blog/seo/schema-markup-best-practices-json-ld-vs-microdata)
 * [Create good titles and snippets in search results](https://developers.google.com/search/docs/advanced/appearance/good-titles-snippets?visit_id=637488152232303549-4048699790&rd=1#page-titles)
+* [What is a robots.txt file?](https://medium.com/@sourabhnagori/what-is-a-robots-txt-file-8c398ac9f8b4)
 * [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 * [Fix lazy-loaded content](https://developers.google.com/search/docs/guides/lazy-loading#test)
 
