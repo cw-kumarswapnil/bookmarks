@@ -1,10 +1,33 @@
 # :bookmark: Bookmarks
 
+
+## Web Performance
+* [High Performance Browser Networking](https://hpbn.co/)
+* [Optimize JavaScript Execution](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
+* [TCP Download Breakpoints](https://community.akamai.com/customers/s/article/TCP-Download-Breakpoints?language=en_US)
+* [Time to Interactive (TTI)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md)
+* [TLS has exactly one performance problem: it is not used widely enough.](https://istlsfastyet.com/)
+* [First Interactive and Consistently Interactive](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#heading=h.k1h25blerz3i)
+* [Intensive JavaScript](https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript)
+* [Enable TLS False Start](https://hpbn.co/transport-layer-security-tls/#enable-tls-false-start)
+* [Initcwnd settings of major CDN providers](https://www.cdnplanet.com/blog/initcwnd-settings-major-cdn-providers/)
+* [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data)
+* [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
+* [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
+
+
+## ElasticSearch
+* 
+
 ## Databases
 * [UPDATE SET column with different values per row](https://stackoverflow.com/questions/58014002/update-set-column-with-different-values-per-row/58014470#58014470)
 * [Using EXPLAIN to Write Better MySQL Queries](https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
 * [Maybe Normalizing Isn't Normal](https://blog.codinghorror.com/maybe-normalizing-isnt-normal/)
 * [Database War Stories #3: Flickr](http://radar.oreilly.com/2006/04/database-war-stories-3-flickr.html)
+
+## Search Engine Optimization
+* [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
+
 
 ## The async/await saga and the advanced fundamentals
 * [What is in a DLL and how does it work?](https://stackoverflow.com/questions/3628798/what-is-in-a-dll-and-how-does-it-work)
@@ -14,21 +37,6 @@
 * [Simple description of worker and I/O threads in .NET](https://stackoverflow.com/questions/2099947/simple-description-of-worker-and-i-o-threads-in-net)
 * [The managed thread pool](https://docs.microsoft.com/en-us/dotnet/standard/threading/the-managed-thread-pool)
 * [What is w3wp.exe? Learn the Basics About IIS Worker Processes](https://stackify.com/w3wp-exe-iis-worker-process/)
-
-## ElasticSearch
-* 
-
-## Web Performance
-* [High Performance Browser Networking](https://hpbn.co/)
-* [TCP Download Breakpoints](https://community.akamai.com/customers/s/article/TCP-Download-Breakpoints?language=en_US)
-* [Time to Interactive (TTI)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md)
-* [TLS has exactly one performance problem: it is not used widely enough.](https://istlsfastyet.com/)
-* [First Interactive and Consistently Interactive](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit#heading=h.k1h25blerz3i)
-* [Enable TLS False Start](https://hpbn.co/transport-layer-security-tls/#enable-tls-false-start)
-* [Initcwnd settings of major CDN providers](https://www.cdnplanet.com/blog/initcwnd-settings-major-cdn-providers/)
-* [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data)
-* [Jake Archibald - nomodule for backwards compatibility](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
-* [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
 
 
 ## Frontend
