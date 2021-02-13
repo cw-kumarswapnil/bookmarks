@@ -16,10 +16,14 @@
 * [Babel - targets.esmodules](https://babeljs.io/docs/en/babel-preset-env#targetsesmodules)
 
 ## ReactJS
+* [Selective hydration and perceived performance](https://www.youtube.com/watch?v=UxoX2faIgDQ&t=3535s)
 * [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 * [Building Great User Experiences with Concurrent Mode and Suspense](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
+* [Concurrent Rendering in React - Andrew Clark and Brian Vaughn - React Conf 2018](https://www.youtube.com/watch?v=ByBPyMBTzM0)
 * [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 * [Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
+* [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
+* [19 Takeaways From React Conf 2019](https://dev.to/amorriscode/19-takeaways-from-react-conf-2019-2m36)
 
 ## ElasticSearch
 * 
