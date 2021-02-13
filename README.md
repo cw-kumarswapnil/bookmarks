@@ -73,6 +73,7 @@
 * [Using Consul for Service Discovery with ASP.NET Core](https://cecilphillip.com/using-consul-for-service-discovery-with-asp-net-core/)
 * [Why do people use Consul or other Service Discovery tool along with Kubernetes that already has this functionality built-it?](https://www.quora.com/Why-do-people-use-Consul-or-other-Service-Discovery-tool-along-with-Kubernetes-that-already-has-this-functionality-built-it?ch=10&share=f722e6d5&srid=Z6qx)
 * [RabbitMQ / AMQP: single queue, multiple consumers for same message?](https://stackoverflow.com/questions/10620976/rabbitmq-amqp-single-queue-multiple-consumers-for-same-message)
+* [Developing Kubernetes services - Airbnb](https://qconlondon.com/system/files/presentation-slides/qcon_london_2019.pdf?utm_source=linkedin&utm_medium=pavanbelagatti)
 
 ## Frontend
 * [How webpack decides what to bundle](https://blog.jakoblind.no/how-webpack-decides-what-to-bundle/)
@@ -81,6 +82,8 @@
 * [Render null](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
 * [What is the difference between properties and attributes in HTML?](https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html)
 * [Why is preconnect resource hint not working?](https://stackoverflow.com/questions/55520102/why-is-preconnect-resource-hint-not-working)
+* [What is rev-manifest.json file in gulp?](https://stackoverflow.com/questions/55179020/what-is-rev-manifest-json-file-in-gulp)
+* [The Problem with gulp-util](https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5)
 
 ## AMP Pages
 * [How to make AMP even faster](https://blog.amp.dev/2018/10/08/how-to-make-amp-even-faster/)
