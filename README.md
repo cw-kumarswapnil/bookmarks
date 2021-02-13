@@ -44,6 +44,7 @@
 ## How things work?
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [Memcached - UserInternals](https://github.com/memcached/memcached/wiki/UserInternals)
+* [B-Trees and why they are used for indexing](https://kumarswapnil.medium.com/b-trees-and-why-they-are-used-for-indexing-6c824677cecd)
 
 ## Search Engine Optimization
 * [How Links in Headers, Footers, Content, and Navigation Can Impact SEO](https://moz.com/blog/links-headers-footers-navigation-impact-seo)
