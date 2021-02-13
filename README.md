@@ -46,7 +46,10 @@
 * [Memcached - UserInternals](https://github.com/memcached/memcached/wiki/UserInternals)
 
 ## Search Engine Optimization
+* [How Links in Headers, Footers, Content, and Navigation Can Impact SEO](https://moz.com/blog/links-headers-footers-navigation-impact-seo)
+* [How Many Links Is Too Many?](https://moz.com/blog/how-many-links-is-too-many)
 * [9 Tips on How to Rank for Featured Snippets](https://www.searchenginejournal.com/how-to-rank-for-featured-snippets/207098/)
+* [Schema Markup Best Practices – Json-LD Vs Microdata](https://www.envigo.co.in/blog/seo/schema-markup-best-practices-json-ld-vs-microdata)
 * [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 * [Fix lazy-loaded content](https://developers.google.com/search/docs/guides/lazy-loading#test)
 
